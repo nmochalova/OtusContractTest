@@ -11,7 +11,7 @@
 Автотест при помощи Retrofit отправляет http-запрос на некий endpoint, полученный ответ при помощи Jackson 
 преобразуется из JSON в java-объекты (dto). Далее при помощи Assertions проводятся проверки ответа.
 
-Презентация и конспект лекции в папке [doc]()
+Презентация и конспект лекции в папке [doc](https://github.com/nmochalova/OtusContractTest/tree/main/doc)
 
 Тестируемые методы расположены по адресу: https://reqres.in/
 
